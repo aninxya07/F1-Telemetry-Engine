@@ -1,0 +1,7 @@
+fastf1
+pandas
+matplotlib
+numpy
+arcade
+flask
+flask-cors
