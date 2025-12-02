@@ -16,6 +16,8 @@ A Python application for visualizing Formula 1 race telemetry and replaying race
 - **Legend:** On-screen legend explains all controls.
 - **Driver Telemetry Insights:** View speed, gear, DRS status, and current lap for selected drivers when selected on the leaderboard.
 
+![Race Replay Preview](./resources/2.png)
+
 ## Controls
 
 - **Pause/Resume:** SPACE or Pause button
